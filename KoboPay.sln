@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KoboPay.Api", "KoboPay.Api\KoboPay.Api.csproj", "{16BBB716-76AE-4712-947C-82B9C680B6F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KoboPay.Logic", "KoboPay.Logic\KoboPay.Logic.csproj", "{ABD69692-6B1C-4492-8039-2FF8A0497691}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KoboPay.Data", "KoboPay.Data\KoboPay.Data.csproj", "{AD538360-5A17-40CB-8EC4-C69EA0E519C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{664D6BF4-E686-422F-A590-E05BDD0D9710}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BBB716-76AE-4712-947C-82B9C680B6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BBB716-76AE-4712-947C-82B9C680B6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BBB716-76AE-4712-947C-82B9C680B6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BBB716-76AE-4712-947C-82B9C680B6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD69692-6B1C-4492-8039-2FF8A0497691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD69692-6B1C-4492-8039-2FF8A0497691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD69692-6B1C-4492-8039-2FF8A0497691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD69692-6B1C-4492-8039-2FF8A0497691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD538360-5A17-40CB-8EC4-C69EA0E519C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD538360-5A17-40CB-8EC4-C69EA0E519C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD538360-5A17-40CB-8EC4-C69EA0E519C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD538360-5A17-40CB-8EC4-C69EA0E519C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A9535D9-842A-4DD6-B811-F4634D3852D7}
+	EndGlobalSection
+EndGlobal
